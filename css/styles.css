@@ -1,0 +1,238 @@
+body,
+html {
+    width: 100%;
+	height: 100%;
+    background-color:#F4F6FC;
+}
+/*
+needl page styles
+*/
+
+body, p {
+	color: #787976; 
+	font: 400 1rem/1.5625rem "rubik", sans-serif;
+}
+.p-large {
+	font: 400 1.125rem/1.625rem "Open Sans", sans-serif;
+}
+
+.p-small {
+	font: 400 0.875rem/1.375rem "Open Sans", sans-serif;
+}
+
+.p-heading {
+	margin-bottom: 3.5rem;
+	text-align: center;
+    Color:#ffffff;  
+    font: 300 40px "rubik", serif;
+
+
+}
+
+header{
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url(../images/helloquence.jpg) center center no-repeat;
+      height:100vh; 
+      opacity: 1;
+      -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+      background-position:center;
+      background-attachment: fixed;
+     
+}
+
+.navbar{
+    	background-color: transparent;
+}
+
+.navbar-brand{
+  margin-left: 10px;
+ 
+}
+.nav-link{
+    color:#979797;
+    padding: 12px 45px 12px 45px;
+    font: 300 16px 'Rubik', serif;
+	text-decoration: none;
+}
+.btn {
+    display: inline-block;
+	padding: 12px 40px 12px 40px;
+	border: none;
+	border-radius: 5px;
+	background-color:#1551FF;
+	color: #ffffff;
+	font: 700 15px 'Rubik', serif;
+	text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px
+}
+h1 {
+    text-align: center;
+	Color:#ffffff;
+    letter-spacing: 28px;
+	font: 700 120px 'Roboto', sans-serif;
+}
+#heading-mark{
+    Color:#1479e0;
+}
+.header .header-content {
+	padding-top: 15rem;
+	padding-bottom: 2.125rem;
+	text-align: center;
+}
+#products{
+    padding-top: 6rem;
+	padding-bottom: 1.125rem;
+    text-align: center;
+}
+.section-title{
+   Color:#1550ff ;   
+   font: 700 14px 'Roboto', sans-serif;
+}
+h3{
+  color:black;
+  text-align:center;
+  padding-top: 2.5rem;
+  padding-bottom: 2.125rem;
+  font: 500 30px 'Roboto', sans-serif; 
+}
+.product-text{
+    width: 290px; 
+    color:black;
+    line-height: 40px;
+    word-break: keep-all;
+    font: 500 23px 'Roboto', sans-serif;
+    
+}
+#product-intro{
+    padding-top: 1rem;
+	padding-bottom: 2.125rem;
+    vertical-align:middle;
+}
+.footer{
+    padding-top: 1rem;
+    padding-bottom: 4.125rem;
+    vertical-align:middle;
+    background: #1550FF
+}
+
+/*
+aboutus page styles
+*/
+#mission{
+    padding-top: 2.3rem;
+	padding-bottom: 1.125rem;
+    background-color: #BCC6FF;
+    text-align: center;
+}
+.mission-title{
+   Color:#1550ff ;   
+   font: 500 30px 'Roboto', sans-serif;
+}
+
+#whoweare{
+    padding-top: 2.3rem;
+	padding-bottom: 1.125rem;
+    text-align: center;
+}
+.whoweare-title{
+   Color:#1550ff ;   
+   font: 500 30px 'Roboto', sans-serif;
+}
+
+#passage{
+    width: 1250px;
+    padding-top: 5.3rem;
+}
+/*
+careers page styles
+*/
+
+#culture{
+    padding-top: 5.3rem;
+	padding-bottom: 3.125rem;
+    background-color: #BCC6FF;
+    
+}
+.culture-title{
+   Color:#1550ff ;   
+   font: 500 30px 'Roboto', sans-serif;
+}
+
+#email{
+    padding-top: 4.3rem;
+	padding-bottom: 3.125rem;
+    text-align: center
+}
+.email-title{
+   Color:black ;   
+   font: 500 21px 'Roboto', sans-serif;
+}
+
+#email button{
+    font: 500 15px 'Roboto', sans-serif;
+    background-color: #1551FF;
+    color:#ffffff;  
+    border: none;
+    border-radius: 5px;
+    padding: 12px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-top: 30px;
+}
+#skills-intro{
+    width: 1230px;
+    padding-top: 4.3rem;
+	padding-bottom: 3.125rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.skill-container{
+  width: 100%;
+  height: 100%;
+  padding: 40px 25px 40px 25px;
+  border: 1px solid black;
+}
+.skill-container p{
+   font: 400 14px 'Roboto', sans-serif;
+   line-height: 21px;   /* within paragraph */
+
+}
+.skill-container h6{
+   font: 700 16px 'Roboto', sans-serif;
+   color: #242526;
+}
+.skill-container ul{
+  padding-top: 0.8rem;
+  list-style-type:none;
+}
+.skill-container ul li{
+   margin-left: -38px;
+  padding-bottom:21px;
+  font: 400 14px 'Roboto', sans-serif;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
